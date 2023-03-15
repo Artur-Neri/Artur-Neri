@@ -10,4 +10,4 @@
 
 [![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur-Neri&theme=highcontrast )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Neri&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Neri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
