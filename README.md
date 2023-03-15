@@ -8,4 +8,4 @@
   IG: art_nerii
 - ⚡ Fun fact: I like pleying guitar and singing all kinds of songs.
 
-[![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur-Neri&theme=radical)](https://github.com/Artur-Neri/github-readme-stats)
+[![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur-Neri&theme=cobalt)](https://github.com/Artur-Neri/github-readme-stats)
