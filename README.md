@@ -1,4 +1,4 @@
-### Opa 👋
+### Artur Neri
 
 - 🔭 I’m currently working on some web projects that involve the use of vanilla JS and React JS
 - 🌱 I’m currently learning JS, React JS and Python
