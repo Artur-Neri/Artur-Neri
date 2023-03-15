@@ -7,8 +7,7 @@
   email: arturnerictt@gmail.com
   IG: art_nerii
 - ⚡ Fun fact: I like pleying guitar and singing all kinds of songs.
-<p align="center">
-  <img src="[![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur-Neri&theme=highcontrast )](https://github.com/anuraghazra/github-readme-stats)" />
-</p>
+
+[![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur-Neri&theme=highcontrast )](https://github.com/anuraghazra/github-readme-stats)"
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Neri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
