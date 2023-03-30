@@ -1,6 +1,11 @@
 ### Prazer, me chamo Artur!
 
-<img style="height:150px">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur-Neri&show_icons=true&theme=transparent)  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Neri&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)</img>
+<div align="center">
+  <a href="https://github.com/Artur-Neri">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Neri&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Artur-Neri&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  
+</div>
 
 - 🔭 I’m currently working on some web projects that involve the use of vanilla JS and React JS
 - 🌱 I’m currently learning JS, React JS and Python
