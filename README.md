@@ -13,4 +13,4 @@
 - 📫 How to reach me: 
   email: arturnerictt@gmail.com
   IG: art_nerii
-- ⚡ Fun fact: I like pleying guitar and singing all kinds of songs.
+- ⚡ Fun fact: I like playing guitar and singing all kinds of songs.
