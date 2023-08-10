@@ -7,9 +7,8 @@
   
 </div>
 
-- 🔭 I’m currently working on some web projects that involve the use of vanilla JS and React JS
-- 🌱 I’m currently learning JS, React JS, MySQL and C# as back-end language
-- 👯 I’m looking to collaborate on any open source code I might be of help with my 'beginner' set of skills
+- 🔭 I’m currently working on some web projects that involve the use of vanilla JS and Vue
+- 🌱 I’m currently learning JS, Vue, MySQL, MongoDB, C and C#
 - 📫 How to reach me: 
   email: arturnerictt@gmail.com
   IG: art_nerii
