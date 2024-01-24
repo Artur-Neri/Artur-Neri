@@ -1,15 +1,3 @@
 ### Prazer, me chamo Artur!
 
-<div align="center">
-  <a href="https://github.com/Artur-Neri">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Neri&layout=compact&langs_count=7&theme=nightowl"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Artur-Neri&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  
-</div>
-
-- 🔭 I’m currently working on some web projects that involve the use of vanilla JS and Vue
-- 🌱 I’m currently learning JS, Vue, MySQL, MongoDB, C and C#
-- 📫 How to reach me: 
-  email: arturnerictt@gmail.com
-  IG: art_nerii
-- ⚡ Fun fact: I like playing guitar and singing all kinds of songs.
+Estou cursando Ciência da Computação e estudando Javascript seriamente desde de meados de Fevereiro de 2023, que foi quando decidi que queria me tornar um desenvolvedor FrontEnd. Já fiz cursos de outras linguagens de programação como o Python e achei ótimo, mas tem algumas coisas que me chamam muita atenção no JS, como o fato de ter uma sintaxe relativamente simples, rodar em qualquer navegador e ainda por cima a funcionalidade de personalização dos projetos na parte visual quando se agrega o css. Por isso, estou procurando por uma oportunidade de desenvolvimento na área do FrontEnd.
