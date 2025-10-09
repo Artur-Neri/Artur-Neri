@@ -18,13 +18,6 @@ Sou desenvolvedor apaixonado por tecnologia e programação. Atualmente trabalho
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artur-Neri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Neri&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ### 🎯 Objetivos Futuros
 
 - 🚀 Expandir conhecimentos em desenvolvimento web (HTML, CSS, JavaScript)
