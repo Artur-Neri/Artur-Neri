@@ -17,6 +17,8 @@ Sou desenvolvedor apaixonado por tecnologia e programação. Atualmente trabalho
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/CSharp-181717?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🎯 Objetivos Futuros
 
