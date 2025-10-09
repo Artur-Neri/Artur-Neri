@@ -10,6 +10,7 @@ Sou desenvolvedor apaixonado por tecnologia e programação. Atualmente trabalho
 - 🌱 Focado no estudo do **JavaScript**, **CSharp** e **Java**
 - 🎯 Todo dia avançando rumo ao **desenvolvimento web**
 - 💡 Sempre em busca de novos conhecimentos e desafios
+- 🌍 Inglês nível [C1](https://cert.efset.org/xvMQ98)
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -26,6 +27,7 @@ Sou desenvolvedor apaixonado por tecnologia e programação. Atualmente trabalho
 - 📱 Explorar desenvolvimento mobile
 - 🌐 Contribuir com projetos open source
 - 📚 Aprender novas linguagens e frameworks
+- 🌍 Trabalhar com um time internacional
 
 ### 📫 Como me encontrar
 
