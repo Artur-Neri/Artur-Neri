@@ -7,8 +7,8 @@ Sou desenvolvedor apaixonado por tecnologia e programação. Atualmente trabalho
 ### 💼 Sobre mim
 
 - 🔭 Trabalho atualmente com **Delphi** na Fábrica de Códigos
-- 🌱 Estudo **JavaScript** nas horas vagas
-- 🎯 Tenho interesse em expandir para **desenvolvimento web**
+- 🌱 Focado no estudo do **JavaScript**, **CSharp** e **Java**
+- 🎯 Todo dia avançando rumo ao **desenvolvimento web**
 - 💡 Sempre em busca de novos conhecimentos e desafios
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -20,7 +20,7 @@ Sou desenvolvedor apaixonado por tecnologia e programação. Atualmente trabalho
 
 ### 🎯 Objetivos Futuros
 
-- 🚀 Expandir conhecimentos em desenvolvimento web (HTML, CSS, JavaScript)
+- 🚀 Aprofundar meu domínio em desenvolvimento web (HTML, CSS, JavaScript, CSharp, Java)
 - 📱 Explorar desenvolvimento mobile
 - 🌐 Contribuir com projetos open source
 - 📚 Aprender novas linguagens e frameworks
