@@ -10,6 +10,7 @@ Sou desenvolvedor apaixonado por tecnologia e programação. Atualmente trabalho
 - 🌱 Focado no estudo do **JavaScript**, **CSharp** e **Java**
 - 🎯 Todo dia avançando rumo ao **desenvolvimento web**
 - 💡 Sempre em busca de novos conhecimentos e desafios
+- 📈 Praticando **Kaizen** (改善) - melhoria contínua em cada dia
 
 ### 🛠️ Tecnologias e Ferramentas
 
