@@ -11,12 +11,6 @@ Gosto de transformar processos manuais em ferramentas simples, úteis e bem acab
 - Automação de rotinas e criação de ferramentas práticas
 - Inglês C1 — [certificação EF SET](https://cert.efset.org/xvMQ98)
 
-## Projetos selecionados
-
-- [**Ultimate Kanban**](https://github.com/Artur-Neri/ultimateKanban) — aplicação de organização visual de tarefas em TypeScript.
-- [**Cabeleleila Leila**](https://github.com/Artur-Neri/cabeleleila-leila) — sistema de agendamento e gestão para salão de beleza.
-- [**Akemi Gravações a Laser**](https://github.com/Artur-Neri/akemi-gravacoes-a-laser) — catálogo online para um pequeno negócio de gravações personalizadas.
-
 ## Tecnologias
 
 `Delphi` · `TypeScript` · `JavaScript` · `HTML/CSS` · `Git` · `GitHub`
