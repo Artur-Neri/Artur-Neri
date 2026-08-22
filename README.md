@@ -1,52 +1,26 @@
-## 👋 Olá! Seja bem-vindo ao meu perfil!
+# Olá, eu sou o Artur 👋
 
-### Prazer, me chamo Artur!
+**Desenvolvedor Delphi Jr. na Fábrica de Códigos** e criador de projetos web em TypeScript e JavaScript.
 
-Sou desenvolvedor apaixonado por tecnologia e programação. Atualmente trabalho como desenvolvedor Delphi Jr. na Fábrica de Códigos, onde aplico minhas habilidades para criar soluções eficientes e de qualidade.
+Gosto de transformar processos manuais em ferramentas simples, úteis e bem acabadas — seja em sistemas corporativos, automações ou produtos para o dia a dia.
 
-### 💼 Sobre mim
+## Em foco
 
-- 🔭 Trabalho atualmente com **Delphi** na Fábrica de Códigos
-- 🌱 Focado no estudo do **JavaScript**, **CSharp** e **Java**
-- 🎯 Todo dia avançando rumo ao **desenvolvimento web**
-- 💡 Sempre em busca de novos conhecimentos e desafios
-- 🌍 Inglês nível [C1](https://cert.efset.org/xvMQ98)
+- Desenvolvimento e manutenção de sistemas com **Delphi**
+- Aplicações web com **TypeScript**, **JavaScript** e **React**
+- Automação de rotinas e criação de ferramentas práticas
+- Inglês C1 — [certificação EF SET](https://cert.efset.org/xvMQ98)
 
-### 🛠️ Tecnologias e Ferramentas
+## Projetos selecionados
 
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub](https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/CSharp-181717?style=for-the-badge&logo=java&logoColor=white)
+- [**Ultimate Kanban**](https://github.com/Artur-Neri/ultimateKanban) — aplicação de organização visual de tarefas em TypeScript.
+- [**Cabeleleila Leila**](https://github.com/Artur-Neri/cabeleleila-leila) — sistema de agendamento e gestão para salão de beleza.
+- [**Akemi Gravações a Laser**](https://github.com/Artur-Neri/akemi-gravacoes-a-laser) — catálogo online para um pequeno negócio de gravações personalizadas.
 
-### 🎯 Objetivos Futuros
+## Tecnologias
 
-- 🚀 Aprofundar meu domínio em desenvolvimento web (HTML, CSS, JavaScript, CSharp, Java)
-- 📱 Explorar desenvolvimento mobile
-- 🌐 Contribuir com projetos open source
-- 📚 Aprender novas linguagens e frameworks
-- 🌍 Trabalhar com um time internacional
+`Delphi` · `TypeScript` · `JavaScript` · `HTML/CSS` · `Git` · `GitHub`
 
-### 📫 Como me encontrar
+## Vamos conversar?
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-neri)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Artur-Neri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artur.neri@example.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Artur-Neri&color=blue&style=flat-square" alt="Profile views" />
-</div>
-
-<div align="center">
-  
-  *"O sucesso é a soma de pequenos esforços repetidos dia após dia."* 
-  
-</div>
+[LinkedIn](https://www.linkedin.com/in/artur-neri) · [Portfólio](https://artur-neri.github.io/portfolio/) · [GitHub](https://github.com/Artur-Neri)
