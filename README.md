@@ -1,6 +1,6 @@
 # Olá, eu sou o Artur 👋
 
-**Desenvolvedor Delphi Jr. na Fábrica de Códigos** e criador de projetos web em TypeScript e JavaScript.
+**Desenvolvedor Delphi Pleno na Fábrica de Códigos** e criador de projetos web em TypeScript e JavaScript.
 
 Gosto de transformar processos manuais em ferramentas simples, úteis e bem acabadas — seja em sistemas corporativos, automações ou produtos para o dia a dia.
 
