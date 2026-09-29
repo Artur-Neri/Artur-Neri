@@ -4,6 +4,8 @@
 
 Gosto de transformar processos manuais em ferramentas simples, úteis e bem acabadas — seja em sistemas corporativos, automações ou produtos para o dia a dia.
 
+🌐 **Portfólio:** [arturneri.me](https://arturneri.me) — sites, automações e integrações sob medida.
+
 ## Em foco
 
 - Desenvolvimento e manutenção de sistemas com **Delphi**
@@ -13,8 +15,8 @@ Gosto de transformar processos manuais em ferramentas simples, úteis e bem acab
 
 ## Tecnologias
 
-`Delphi` · `TypeScript` · `JavaScript` · `HTML/CSS` · `Git` · `GitHub`
+`Delphi` · `TypeScript` · `JavaScript` · `React` · `Node.js` · `HTML/CSS` · `Git` · `GitHub`
 
 ## Vamos conversar?
 
-[LinkedIn](https://www.linkedin.com/in/artur-neri) · [Portfólio](https://artur-neri.github.io/portfolio/) · [GitHub](https://github.com/Artur-Neri)
+[LinkedIn](https://www.linkedin.com/in/artur-neri) · [Portfólio](https://arturneri.me) · [GitHub](https://github.com/Artur-Neri)
